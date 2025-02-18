@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ES2017",
+    "noEmitOnError": false,
+    "allowJs": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["dist"]
+}
